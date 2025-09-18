@@ -1,2 +1,2 @@
-# Pick-and-Place-MOSFET
+# PICK-AND-PLACE-MOSFET
 Support Robot in picking and placing objests
